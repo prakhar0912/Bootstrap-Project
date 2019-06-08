@@ -29,11 +29,11 @@
 @media(max-width:500px){
     .footer{
         display:none;
-    }
+}
 }body {
     padding-top:50px;
     z-index:0;
 }
 .navbar-light{
-    background-color:rgb(194, 3, 3);
+    background-color:rgb(108, 210, 250);
 }
