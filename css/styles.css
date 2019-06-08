@@ -1,0 +1,39 @@
+.row-header {
+    margin:0 auto;
+    padding: 0 auto;
+
+}
+.row-content {
+    margin: 0 auto;
+    padding:50px 0px;
+    border-bottom: 1px solid black;
+    min-height:400px;
+}
+.footer {
+    background: black;
+    margin: 0 auto;
+    padding:20px 0;
+    color: white;
+
+}
+.jumbotron {
+    background: black;
+    color:white;
+    padding:70px 30px;
+    margin: 0 auto;
+}
+.address {
+    font-size: 80%;
+    margin: 0;
+}
+@media(max-width:500px){
+    .footer{
+        display:none;
+    }
+}body {
+    padding-top:50px;
+    z-index:0;
+}
+.navbar-light{
+    background-color:rgb(194, 3, 3);
+}
